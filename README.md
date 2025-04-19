@@ -32,7 +32,7 @@ https://shunnoit.top/shunno-payment/api/v1
     "ErrorCode": "200",
     "ErrorMsg": "Successful",
     "BillAmount": "1020",
-    "QueryTime": "2025-04-19 04:57:00"
+    "QueryTime": "20250419120643"
 }
 ```
 
@@ -67,7 +67,7 @@ https://shunnoit.top/shunno-payment/api/v1
     "ErrorMsg": "Successful",
     "TotalAmount": "1020",
     "TrxId": "5C8300HJ6V",
-    "MiddlewarePayTime": "2025-04-19 05:15:57"
+    "MiddlewarePayTime": "20250419120643"
 }
 ```
 
@@ -100,7 +100,7 @@ https://shunnoit.top/shunno-payment/api/v1
     "ErrorMsg": "Successful",
     "TotalAmount": "1020",
     "TrxId": "5C8300HJ6V",
-    "MiddlewarePayTime": "2025-04-19 05:27:41"
+    "MiddlewarePayTime": "20250419120643"
 }
 ```
 
