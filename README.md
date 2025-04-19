@@ -1,5 +1,3 @@
-Got it! Since **ShunnoIT** uses **bKash Pay Bill** system across all its applications, we can create a unified **ShunnoIT Pay Bill API** documentation. This documentation will cover the endpoints for querying bills, making payments, and searching transactions using the **bKash Pay Bill** system, ensuring it's applicable for all ShunnoIT applications.
-
 ---
 
 ## **ShunnoIT Pay Bill System Documentation (Using bKash Pay Bill API)**
@@ -143,11 +141,3 @@ For any integration issues or questions, please contact ShunnoIT:
 - **Phone**: +880 1772-703036
 
 Our team is available to assist you with any challenges you may encounter during integration or setup.
-
----
-
-### **Conclusion**
-
-This documentation helps integrate the **ShunnoIT Pay Bill API** into your system. All ShunnoIT applications use the bKash Pay Bill system for querying bills, making payments, and tracking transactions. Make sure to follow the request and response formats for a smooth integration experience.
-
-Let me know if you need further modifications or additional details!
