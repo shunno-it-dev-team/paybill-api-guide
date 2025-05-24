@@ -78,12 +78,10 @@ https://shunnoit.top/shunno-payment/api/v1
     "ErrorMsg": "Invalid RefId"
 }
 
-```json
 {
     "ErrorCode": "402",
     "ErrorMsg": "Invalid Amount"
 }
-```
 ```
 
 ---
